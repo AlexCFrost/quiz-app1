@@ -28,7 +28,7 @@ export default class Result extends Component {
         </div>
         <div id="choose">
             <button id="play-again">Play Again</button>
-            <button id="back-to-home">Back to Home</button>
+            <button id="back-home">Back to Home</button>
         </div>
       </div>
       </>

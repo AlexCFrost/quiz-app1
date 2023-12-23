@@ -1,7 +1,7 @@
 import { Component } from 'react'
-import Home from './components/Home'
-import Quiz from './components/Quiz'
-import Result from './components/Result'
+import Home from './Components/Home'
+import Quiz from './Components/Quiz'
+import Result from './Components/Result'
 
 export default class App extends Component {
   render() {
